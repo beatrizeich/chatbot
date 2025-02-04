@@ -1,0 +1,89 @@
+{
+    "loja": {
+      "nome": "Gustavo Veículos",
+      "endereco": "Av. Magalhães Barata, 595, entre Borges Leal e Marechal Rondon",
+      "horario": "Segunda a sexta, das 8h às 18h, e sábado, das 8h às 12h",
+      "estoqueOnline": "gustavoveiculosstm.com.br/estoque",
+      "formasPagamento": "Cartão de crédito, débito, transferência bancária, e financiamento",
+      "aceitaTroca": "Sim, aceitamos veículos na troca, sujeito à avaliação"
+    },
+    "faq": [
+      {
+        "pergunta": "Qual o horário de funcionamento?",
+        "resposta": "Nosso horário de funcionamento é de segunda a sexta, das 9h às 18h, e sábado das 9h às 14h."
+      },
+      {
+        "pergunta": "Onde fica a loja?",
+        "resposta": "Nossa loja está localizada na Av. Magalhães Barata, 595, entre Borges Leal e Marechal Rondon. Funcionamos de segunda a sexta, das 9h às 18h, e aos sábados, das 9h às 14h. Você também pode conferir nosso estoque online: gustavoveiculosstm.com.br/estoque"
+      },
+      {
+        "pergunta": "Quais marcas de veículos vocês vendem?",
+        "resposta": "Trabalhamos com diversas marcas, como Chevrolet, Fiat, Toyota e Hyundai, oferecendo veículos novos e seminovos. Posso te ajudar a encontrar o modelo ideal?"
+      },
+      {
+        "pergunta": "Quais modelos de carros novos estão disponíveis?",
+        "resposta": "Atualmente, temos os seguintes modelos disponíveis:\n\nOnix LTZ 2014 – R$ 42.900\nPalio Fire 2010 – R$ 19.900\nHilux SRX 2020 – R$ 169.900\nRAM Laramie 2500 2023 – R$ 309.900\nQuer saber mais detalhes sobre algum deles?"
+      },
+      {
+        "pergunta": "Posso fazer um test drive?",
+        "resposta": "Sim! Agendamos test drives para que você possa experimentar o veículo antes de decidir. Qual modelo você gostaria de testar?"
+      },
+      {
+        "pergunta": "Quero agendar um test drive.",
+        "resposta": "Ótimo! Qual dia e horário seriam melhores para você?"
+      },
+      {
+        "pergunta": "Os veículos seminovos têm garantia?",
+        "resposta": "Sim! Todos os nossos seminovos passam por uma inspeção rigorosa e têm garantia. Quer saber mais sobre algum modelo específico?"
+      },
+      {
+        "pergunta": "Vocês aceitam veículos usados como parte do pagamento?",
+        "resposta": "Sim! Fazemos uma avaliação justa e transparente do seu carro para usá-lo como parte do pagamento. Gostaria de agendar uma avaliação?"
+      },
+      {
+        "pergunta": "Quais são as opções de financiamento?",
+        "resposta": "Trabalhamos com as principais financeiras, como Banco PAN, BV, Omni, Santander, Bradesco, Itaú, Safra e C6. Quer que eu simule um financiamento para você?"
+      },
+      {
+        "pergunta": "Vocês aceitam cartão de crédito?",
+        "resposta": "Sim! Aceitamos pagamento à vista ou parcelado em até 16x no cartão de crédito."
+      },
+      {
+        "pergunta": "Qual é o valor da entrada mínima?",
+        "resposta": "O valor da entrada varia conforme o modelo e as condições de financiamento. Qual veículo você tem interesse?"
+      },
+      {
+        "pergunta": "Vocês cuidam da transferência do veículo?",
+        "resposta": "Sim! Cuidamos de toda a documentação e transferência para você. O processo é rápido e seguro."
+      },
+      {
+        "pergunta": "Posso agendar uma visita à loja?",
+        "resposta": "Claro! Podemos agendar um horário para você conhecer nossos veículos e conversar com um consultor. Qual horário é melhor para você?"
+      },
+      {
+        "pergunta": "Vocês entregam em cidades vizinhas?",
+        "resposta": "Sim! Podemos fazer toda a negociação online e entregar seu carro na sua cidade. Quer saber mais sobre como funciona?"
+      },
+      {
+        "pergunta": "Vocês têm HB20 disponível?",
+        "resposta": "No momento, não temos o HB20, mas temos um Onix na mesma faixa de preço e com características semelhantes. Quer saber mais sobre ele?"
+      },
+      {
+        "pergunta": "O que é financiamento bancário?",
+        "resposta": "O financiamento bancário é uma forma de parcelar a compra do seu veículo com o apoio de um banco ou instituição financeira. Você paga uma entrada e o restante do valor é dividido em parcelas com juros, conforme o prazo escolhido. Quer saber como funciona a simulação?"
+      },
+      {
+        "pergunta": "O que preciso para fazer uma simulação de financiamento?",
+        "resposta": "Para realizar uma simulação, precisamos de algumas informações básicas: CPF, Data de nascimento, Número de celular, Se possui CNH ou não"
+      },
+      {
+        "pergunta": "Como funciona a avaliação do meu carro usado?",
+        "resposta": "A avaliação do seu veículo é feita com base em fatores como ano, modelo, estado de conservação e tabela de mercado. Podemos fazer uma análise online ou presencial. Você gostaria de agendar uma avaliação?"
+      },
+      {
+        "pergunta": "Qual o valor da entrada e das parcelas?",
+        "resposta": "O valor da entrada e das parcelas varia para cada pessoa, pois depende do seu perfil de crédito, do veículo escolhido e das condições do banco. Para saber os valores exatos, é necessário fazer uma simulação. Quer que eu te ajude com isso? 🚗💰"
+      }
+    ]
+  }
+  
