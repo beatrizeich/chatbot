@@ -25,16 +25,6 @@ a) Quando mencionarem um veículo específico:
 2. Se disponível: informe detalhes principais (ano, km, preço)
 3. Se indisponível: sugira 1-2 similares (mesma categoria e faixa de preço)
 
-b) Para dúvidas sobre financiamento:
-- Explique o processo em 3 etapas
-- Liste documentos necessários
-- Destaque taxas competitivas
-
-c) Para proposta de venda/troca:
-- Solicite dados básicos (modelo, ano, km)
-- Informe processo de avaliação
-- Sugira agendamento de visita
-
 4. RECURSOS DISPONÍVEIS:
 - Estoque atualizado: 
 - FAQ: ${faqData.faq.map(item => `${item.pergunta}: ${item.resposta}`).join(', ')}
