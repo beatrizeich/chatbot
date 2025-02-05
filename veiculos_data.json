@@ -1,0 +1,3026 @@
+[
+  {
+    "id": 2387,
+    "date": "2025-02-05T10:08:50",
+    "date_gmt": "2025-02-05T13:08:50",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=2387"
+    },
+    "modified": "2025-02-05T10:09:11",
+    "modified_gmt": "2025-02-05T13:09:11",
+    "slug": "palio-1-0-economy-2010",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/palio-1-0-economy-2010/",
+    "title": {
+      "rendered": "PALIO 1.0 ECONOMY 2010"
+    },
+    "content": {
+      "rendered": "\n<p>O Palio 1.0 Economy 2009/2010 é a escolha ideal para quem busca economia e confiabilidade. Com motor 1.0 Fire Flex e câmbio manual, oferece um ótimo custo-benefício. Equipado com som, vidros elétricos dianteiros e ar-condicionado, garante conforto para o dia a dia. Revisões em dia, pronto para rodar!</p>\n",
+      "protected": false
+    },
+    "featured_media": 2397,
+    "template": "",
+    "marca": [
+      3
+    ],
+    "cor": [
+      10
+    ],
+    "ano": [
+      40
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/2387"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/2397"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=2387"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=2387"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=2387"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=2387"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2376,
+    "date": "2025-02-05T09:52:36",
+    "date_gmt": "2025-02-05T12:52:36",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=2376"
+    },
+    "modified": "2025-02-05T09:52:38",
+    "modified_gmt": "2025-02-05T12:52:38",
+    "slug": "hb20-unique-1-0-2019",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/hb20-unique-1-0-2019/",
+    "title": {
+      "rendered": "HB20 UNIQUE 1.0 2019"
+    },
+    "content": {
+      "rendered": "\n<p>O HB20 Unique 1.0 2018/2019 é um compacto econômico e completo para o dia a dia. Equipado com motor 1.0 flex e câmbio manual, oferece eficiência e desempenho na medida certa. Conta com som, vidros elétricos dianteiros, travas e ar-condicionado para mais conforto. A câmera de ré e o sensor de estacionamento trazem mais segurança nas manobras.</p>\n",
+      "protected": false
+    },
+    "featured_media": 2386,
+    "template": "",
+    "marca": [
+      5
+    ],
+    "cor": [
+      9
+    ],
+    "ano": [
+      26
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/2376"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/2386"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=2376"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=2376"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=2376"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=2376"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2365,
+    "date": "2025-02-05T09:43:57",
+    "date_gmt": "2025-02-05T12:43:57",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=2365"
+    },
+    "modified": "2025-02-05T09:43:58",
+    "modified_gmt": "2025-02-05T12:43:58",
+    "slug": "civic-sed-lxl-1-8-2011",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/civic-sed-lxl-1-8-2011/",
+    "title": {
+      "rendered": "CIVIC SED. LXL 1.8 2011"
+    },
+    "content": {
+      "rendered": "\n<p>O Civic LXL 1.8 2011/2011 é a escolha perfeita para quem busca conforto, desempenho e confiabilidade. Com motor 1.8 flex e câmbio automático, garante uma condução suave e eficiente. Equipado com multimídia, vidros elétricos, travas, ar-condicionado, câmera de ré e sensor de estacionamento, proporciona comodidade e segurança no dia a dia. O interior refinado conta com bancos em couro e volante multifuncional, agregando sofisticação ao veículo. Revisões em dia, pronto para rodar.</p>\n",
+      "protected": false
+    },
+    "featured_media": 2375,
+    "template": "",
+    "marca": [
+      4
+    ],
+    "cor": [
+      44
+    ],
+    "ano": [
+      33
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/2365"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/2375"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=2365"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=2365"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=2365"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=2365"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2355,
+    "date": "2025-02-02T17:06:35",
+    "date_gmt": "2025-02-02T20:06:35",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=2355"
+    },
+    "modified": "2025-02-02T17:06:35",
+    "modified_gmt": "2025-02-02T20:06:35",
+    "slug": "grand-siena-attractive-2013",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/grand-siena-attractive-2013/",
+    "title": {
+      "rendered": "GRAND SIENA ATTRACTIVE 2013"
+    },
+    "content": {
+      "rendered": "\n<p>O Grand Siena Attractive 1.4 2012/2013 é um sedan espaçoso, econômico e confortável, ideal para o dia a dia. Com motor 1.4 flex e câmbio manual, garante um bom equilíbrio entre desempenho e consumo. Equipado com som, vidros elétricos dianteiros e ar-condicionado, proporciona mais comodidade para o motorista e passageiros. Uma excelente opção para quem busca custo-benefício.</p>\n",
+      "protected": false
+    },
+    "featured_media": 2356,
+    "template": "",
+    "marca": [
+      3
+    ],
+    "cor": [
+      11
+    ],
+    "ano": [
+      28
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/2355"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/2356"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=2355"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=2355"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=2355"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=2355"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2335,
+    "date": "2025-01-31T15:53:33",
+    "date_gmt": "2025-01-31T18:53:33",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=2335"
+    },
+    "modified": "2025-01-31T15:53:33",
+    "modified_gmt": "2025-01-31T18:53:33",
+    "slug": "corolla-xei-2-0-2014",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/corolla-xei-2-0-2014/",
+    "title": {
+      "rendered": "COROLLA XEI 2.0 2014"
+    },
+    "content": {
+      "rendered": "\n<p>O Corolla XEI 2.0 2013/2014 é uma excelente opção para quem busca um sedan confortável, sofisticado e com bom desempenho. Seu motor 2.0 aliado ao câmbio automático oferece uma condução suave e eficiente. Equipado com multimídia, vidros elétricos, bancos em couro e ar-condicionado, proporciona uma experiência de conforto e modernidade.</p>\n",
+      "protected": false
+    },
+    "featured_media": 2354,
+    "template": "",
+    "marca": [
+      6
+    ],
+    "cor": [
+      8
+    ],
+    "ano": [
+      23
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/2335"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/2354"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=2335"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=2335"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=2335"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=2335"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2319,
+    "date": "2025-01-31T15:33:20",
+    "date_gmt": "2025-01-31T18:33:20",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=2319"
+    },
+    "modified": "2025-01-31T15:33:20",
+    "modified_gmt": "2025-01-31T18:33:20",
+    "slug": "tiggo-5x-txs-1-5-2021",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/tiggo-5x-txs-1-5-2021/",
+    "title": {
+      "rendered": "TIGGO 5X TXS 1.5 2021"
+    },
+    "content": {
+      "rendered": "\n<p>O Tiggo 5X TXS 1.5 2020/2021 é um SUV completo, com motor 1.5 turbo e câmbio automático, perfeito para quem busca desempenho aliado a conforto. Equipado com multimídia, vidros elétricos, travas, câmera de ré e sensor de estacionamento, proporciona mais comodidade ao dirigir. O botão Start Stop traz ainda mais praticidade, enquanto o ar-condicionado garante o conforto para todos os passageiros.</p>\n",
+      "protected": false
+    },
+    "featured_media": 2333,
+    "template": "",
+    "marca": [
+      22
+    ],
+    "cor": [
+      10
+    ],
+    "ano": [
+      13
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/2319"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/2333"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=2319"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=2319"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=2319"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=2319"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2297,
+    "date": "2025-01-28T10:51:14",
+    "date_gmt": "2025-01-28T13:51:14",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=2297"
+    },
+    "modified": "2025-01-28T11:12:32",
+    "modified_gmt": "2025-01-28T14:12:32",
+    "slug": "l200-triton-hpe-3-2-2010",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/l200-triton-hpe-3-2-2010/",
+    "title": {
+      "rendered": "L200 TRITON HPE 3.2 2010"
+    },
+    "content": {
+      "rendered": "\n<p>A L200 Triton HPE 3.2 2010/2010 combina robustez e sofisticação para encarar qualquer desafio. Com motor 3.2 turbo diesel e câmbio automático, oferece excelente desempenho e durabilidade. Conta com multimídia, vidros elétricos, ar-condicionado e bancos em couro, proporcionando conforto e praticidade tanto na cidade quanto no off-road. </p>\n",
+      "protected": false
+    },
+    "featured_media": 2307,
+    "template": "",
+    "marca": [
+      32
+    ],
+    "cor": [
+      11
+    ],
+    "ano": [
+      40
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/2297"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/2307"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=2297"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=2297"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=2297"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=2297"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2274,
+    "date": "2025-01-23T10:36:25",
+    "date_gmt": "2025-01-23T13:36:25",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=2274"
+    },
+    "modified": "2025-01-23T10:36:26",
+    "modified_gmt": "2025-01-23T13:36:26",
+    "slug": "saveiro-trooper-ce-2010",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/saveiro-trooper-ce-2010/",
+    "title": {
+      "rendered": "SAVEIRO TROOPER CE 2010"
+    },
+    "content": {
+      "rendered": "\n<p>A Saveiro Trooper 1.6 CE 2009/2010 é uma picape robusta e versátil, ideal para trabalho e lazer. Com motor 1.6 e câmbio manual, entrega desempenho eficiente e confiável. Equipada com som, vidros elétricos dianteiros e ar-condicionado, oferece conforto e praticidade no uso diário. As revisões em dia garantem a confiabilidade e a durabilidade do veículo. Uma excelente escolha para quem busca força e funcionalidade em um único modelo.</p>\n",
+      "protected": false
+    },
+    "featured_media": 2285,
+    "template": "",
+    "marca": [
+      29
+    ],
+    "cor": [
+      8
+    ],
+    "ano": [
+      40
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/2274"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/2285"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=2274"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=2274"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=2274"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=2274"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2257,
+    "date": "2025-01-21T09:02:23",
+    "date_gmt": "2025-01-21T12:02:23",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=2257"
+    },
+    "modified": "2025-01-21T09:02:23",
+    "modified_gmt": "2025-01-21T12:02:23",
+    "slug": "fiesta-ha-1-5l-s-2014",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/fiesta-ha-1-5l-s-2014/",
+    "title": {
+      "rendered": "FIESTA HA 1.5L S 2014"
+    },
+    "content": {
+      "rendered": "\n<p>O Fiesta HA 1.5L S 2013/2014 oferece eficiência e conforto em um compacto versátil. Equipado com motor 1.5 e câmbio manual, entrega ótimo desempenho para o dia a dia. Com som, vidros elétricos dianteiros e ar-condicionado, garante comodidade ao motorista e passageiros. O sensor de estacionamento agrega praticidade, enquanto as revisões em dia refletem o cuidado com o veículo. Um modelo pronto para acompanhar sua rotina com segurança e estilo.</p>\n",
+      "protected": false
+    },
+    "featured_media": 2262,
+    "template": "",
+    "marca": [
+      38
+    ],
+    "cor": [
+      8
+    ],
+    "ano": [
+      23
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/2257"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/2262"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=2257"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=2257"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=2257"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=2257"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2247,
+    "date": "2025-01-13T17:21:51",
+    "date_gmt": "2025-01-13T20:21:51",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=2247"
+    },
+    "modified": "2025-01-13T17:21:52",
+    "modified_gmt": "2025-01-13T20:21:52",
+    "slug": "samurai-jx-canvas-1998",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/samurai-jx-canvas-1998/",
+    "title": {
+      "rendered": "SAMURAI JX CANVAS 1998"
+    },
+    "content": {
+      "rendered": "\n<p>O Samurai JX Canvas 1.3 1997/1998 é um clássico que une robustez e estilo off-road. Equipado com motor 1.3 e câmbio manual, oferece uma experiência de condução ágil e confiável. Ideal para aventuras, mantém-se bem cuidado com revisões em dia, garantindo desempenho e durabilidade. Um veículo para quem aprecia a essência da direção e o espírito de liberdade.</p>\n",
+      "protected": false
+    },
+    "featured_media": 2256,
+    "template": "",
+    "marca": [
+      55
+    ],
+    "cor": [
+      8
+    ],
+    "ano": [
+      60
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/2247"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/2256"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=2247"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=2247"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=2247"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=2247"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2227,
+    "date": "2025-01-13T15:01:07",
+    "date_gmt": "2025-01-13T18:01:07",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=2227"
+    },
+    "modified": "2025-01-13T15:01:08",
+    "modified_gmt": "2025-01-13T18:01:08",
+    "slug": "frontier-s-4x4-2-3-2021",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/frontier-s-4x4-2-3-2021/",
+    "title": {
+      "rendered": "FRONTIER S 4X4 2.3 2021"
+    },
+    "content": {
+      "rendered": "\n<p>A Frontier S CD 4&#215;4 2.3 2021/2021 é a escolha ideal para quem busca robustez e desempenho. Equipada com motor 2.3 turbo diesel e câmbio manual, entrega força e eficiência em qualquer terreno. Conta com sistema multimídia, vidros elétricos, travas, ar-condicionado e sensor de estacionamento, garantindo conforto e praticidade. Pronta para enfrentar os desafios do dia a dia com qualidade e durabilidade.</p>\n",
+      "protected": false
+    },
+    "featured_media": 2236,
+    "template": "",
+    "marca": [
+      59
+    ],
+    "cor": [
+      9
+    ],
+    "ano": [
+      13
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/2227"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/2236"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=2227"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=2227"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=2227"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=2227"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2217,
+    "date": "2025-01-13T14:49:11",
+    "date_gmt": "2025-01-13T17:49:11",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=2217"
+    },
+    "modified": "2025-01-13T17:26:47",
+    "modified_gmt": "2025-01-13T20:26:47",
+    "slug": "up-move-1-0-tsi-2018",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/up-move-1-0-tsi-2018/",
+    "title": {
+      "rendered": "UP! MOVE 1.0 TSI 2018"
+    },
+    "content": {
+      "rendered": "\n<p>O UP! MOVE 1.0 TSI 2017/2018 Total Flex é a combinação perfeita entre desempenho e economia. Com motor 1.0 turbo e câmbio manual, entrega uma condução ágil e eficiente. Equipado com som, vidros elétricos dianteiros, volante multifuncional e ar-condicionado, proporciona conforto e praticidade. O sensor de estacionamento agrega segurança, e as revisões em dia garantem confiabilidade para o dia a dia ou viagens.</p>\n",
+      "protected": false
+    },
+    "featured_media": 2226,
+    "template": "",
+    "marca": [
+      29
+    ],
+    "cor": [
+      44
+    ],
+    "ano": [
+      25
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/2217"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/2226"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=2217"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=2217"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=2217"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=2217"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2191,
+    "date": "2025-01-02T08:33:22",
+    "date_gmt": "2025-01-02T11:33:22",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=2191"
+    },
+    "modified": "2025-01-02T08:33:22",
+    "modified_gmt": "2025-01-02T11:33:22",
+    "slug": "mobi-like-1-0-2022",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/mobi-like-1-0-2022/",
+    "title": {
+      "rendered": "MOBI LIKE 1.0 2022"
+    },
+    "content": {
+      "rendered": "\n<p>O Mobi Like 1.0 2022/2022 Fire Flex é a escolha ideal para quem busca economia e praticidade. Equipado com motor 1.0 e câmbio manual, oferece um desempenho eficiente. Conta com sistema de som, vidros elétricos dianteiros e ar-condicionado, garantindo conforto em cada viagem. Revisões em dia, pronto para te acompanhar com segurança e tranquilidade.</p>\n",
+      "protected": false
+    },
+    "featured_media": 2199,
+    "template": "",
+    "marca": [
+      3
+    ],
+    "cor": [
+      8
+    ],
+    "ano": [
+      14
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/2191"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/2199"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=2191"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=2191"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=2191"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=2191"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2173,
+    "date": "2024-12-31T08:31:06",
+    "date_gmt": "2024-12-31T11:31:06",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=2173"
+    },
+    "modified": "2024-12-31T08:31:06",
+    "modified_gmt": "2024-12-31T11:31:06",
+    "slug": "fastback-impetus-1-0-2023",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/fastback-impetus-1-0-2023/",
+    "title": {
+      "rendered": "FASTBACK IMPETUS 1.0 2023"
+    },
+    "content": {
+      "rendered": "\n<p>O Fiat Fastback Impetus 1.0 2023/2023 200 Turbo Flex Automático é a união de sofisticação e tecnologia. Equipado com motor 1.0 turbo e câmbio automático, oferece desempenho ágil e eficiência. Dispõe de sistema multimídia, vidros elétricos, travas, volante multifuncional e bancos em couro, proporcionando conforto e modernidade. Conta ainda com câmera de ré, sensor de estacionamento e revisões em dia, pronto para oferecer uma experiência única em cada trajeto.</p>\n",
+      "protected": false
+    },
+    "featured_media": 2182,
+    "template": "",
+    "marca": [
+      3
+    ],
+    "cor": [
+      10
+    ],
+    "ano": [
+      15
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/2173"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/2182"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=2173"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=2173"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=2173"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=2173"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2027,
+    "date": "2024-12-03T10:21:47",
+    "date_gmt": "2024-12-03T13:21:47",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=2027"
+    },
+    "modified": "2024-12-03T10:21:47",
+    "modified_gmt": "2024-12-03T13:21:47",
+    "slug": "bongo-k-2500-2-5-2011",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/bongo-k-2500-2-5-2011/",
+    "title": {
+      "rendered": "BONGO K-2500 2.5 2011"
+    },
+    "content": {
+      "rendered": "\n<p>A Bongo K-2500 2.5 2010/2011 4&#215;2 Turbo Diesel é um veículo robusto e ideal para quem precisa de um transporte de carga eficiente e durável. Com motor 2.5 a diesel e câmbio manual, oferece a potência necessária para enfrentar os desafios diários, garantindo desempenho confiável e alto torque, essencial para o trabalho pesado. </p>\n\n\n\n<p>Além disso, vem equipada com multimídia, proporcionando entretenimento e conectividade, e ar-condicionado para conforto, mesmo nas jornadas mais longas. Os bancos em couro agregam sofisticação e durabilidade ao interior, garantindo um ambiente de trabalho mais agradável.</p>\n",
+      "protected": false
+    },
+    "featured_media": 2037,
+    "template": "",
+    "marca": [
+      47
+    ],
+    "cor": [
+      8
+    ],
+    "ano": [
+      33
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/2027"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/2037"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=2027"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=2027"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=2027"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=2027"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 2017,
+    "date": "2024-12-03T09:59:16",
+    "date_gmt": "2024-12-03T12:59:16",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=2017"
+    },
+    "modified": "2024-12-03T09:59:16",
+    "modified_gmt": "2024-12-03T12:59:16",
+    "slug": "amarok-2-0-2013-4x4",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/amarok-2-0-2013-4x4/",
+    "title": {
+      "rendered": "AMAROK 2.0 2013 4X4"
+    },
+    "content": {
+      "rendered": "\n<p>A Amarok SE CD 2.0 2012/2013 16V TDI 4&#215;4 Diesel combina força e resistência, equipada com motor 2.0 turbo diesel e tração 4&#215;4, pronta para enfrentar qualquer terreno. Oferece câmbio manual, vidros elétricos, ar-condicionado e bancos em couro, garantindo conforto e praticidade. </p>\n\n\n\n<p>Com sistema de som para suas viagens e revisões em dia, é a escolha ideal para quem busca desempenho e confiabilidade em uma caminhonete versátil.</p>\n",
+      "protected": false
+    },
+    "featured_media": 2026,
+    "template": "",
+    "marca": [
+      29
+    ],
+    "cor": [
+      9
+    ],
+    "ano": [
+      28
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/2017"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/2026"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=2017"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=2017"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=2017"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=2017"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1984,
+    "date": "2024-11-28T19:47:24",
+    "date_gmt": "2024-11-28T22:47:24",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=1984"
+    },
+    "modified": "2024-11-28T19:47:25",
+    "modified_gmt": "2024-11-28T22:47:25",
+    "slug": "ford-ka-se-1-0-2020",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/ford-ka-se-1-0-2020/",
+    "title": {
+      "rendered": "FORD KA SE 1.0 2020"
+    },
+    "content": {
+      "rendered": "\n<p>O Ford Ka SE 1.0 2019/2020 é uma excelente opção para quem busca um hatch compacto, econômico e prático para o dia a dia. Equipado com motor 1.0 flex e câmbio manual, oferece ótimo desempenho e economia de combustível.</p>\n\n\n\n<p>Conta com ar-condicionado, vidros elétricos dianteiros e travas, proporcionando conforto e praticidade. O sistema de som garante entretenimento durante os trajetos, enquanto as revisões em dia trazem segurança e tranquilidade. Ideal para quem valoriza um veículo acessível, confiável e funcional.</p>\n",
+      "protected": false
+    },
+    "featured_media": 1993,
+    "template": "",
+    "marca": [
+      38
+    ],
+    "cor": [
+      9
+    ],
+    "ano": [
+      12
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/1984"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/1993"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=1984"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=1984"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=1984"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=1984"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1968,
+    "date": "2024-11-26T21:58:27",
+    "date_gmt": "2024-11-27T00:58:27",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=1968"
+    },
+    "modified": "2024-11-26T21:58:27",
+    "modified_gmt": "2024-11-27T00:58:27",
+    "slug": "cronos-1-3-firefly-drive-2023",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/cronos-1-3-firefly-drive-2023/",
+    "title": {
+      "rendered": "CRONOS 1.3 FIREFLY DRIVE 2023"
+    },
+    "content": {
+      "rendered": "\n<p>O Fiat Cronos 1.3 Firefly Drive 2022/2023 combina desempenho, conforto e tecnologia em um sedã moderno e funcional. Equipado com motor 1.3 e câmbio automático, oferece uma condução suave e eficiente, ideal para a cidade ou estrada.</p>\n\n\n\n<p>Com ar-condicionado, vidros elétricos e travas, proporciona conforto e praticidade no dia a dia. A central multimídia integrada e o volante multifuncional garantem conectividade e controle ao alcance das mãos. Para maior segurança e comodidade, conta com sensor de estacionamento, facilitando as manobras.</p>\n\n\n\n<p>O Fiat Cronos é a escolha certa para quem busca qualidade, estilo e confiabilidade em um único veículo.</p>\n",
+      "protected": false
+    },
+    "featured_media": 1975,
+    "template": "",
+    "marca": [
+      3
+    ],
+    "cor": [
+      8
+    ],
+    "ano": [
+      15
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/1968"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/1975"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=1968"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=1968"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=1968"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=1968"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1958,
+    "date": "2024-11-26T20:30:38",
+    "date_gmt": "2024-11-26T23:30:38",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=1958"
+    },
+    "modified": "2024-11-27T09:55:50",
+    "modified_gmt": "2024-11-27T12:55:50",
+    "slug": "hyundai-hb20-1-0-limited-2024",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/hyundai-hb20-1-0-limited-2024/",
+    "title": {
+      "rendered": "HB20 1.0 LIMITED 2024"
+    },
+    "content": {
+      "rendered": "\n<p>O Hyundai HB20 1.0 12V Limited 2023/2024 é a escolha perfeita para quem busca estilo, tecnologia e eficiência. Equipado com motor 1.0 e câmbio manual, oferece uma condução econômica e ágil, ideal para o dia a dia.</p>\n\n\n\n<p>Com sistema multimídia integrado, volante multifuncional e câmera de ré, garante conectividade e praticidade nas manobras. O conforto é reforçado pelo ar-condicionado e vidros elétricos, enquanto as travas e o sensor de estacionamento adicionam segurança.</p>\n\n\n\n<p>Com todas as revisões em dia, é uma opção confiável e moderna para quem valoriza qualidade e design contemporâneo.</p>\n",
+      "protected": false
+    },
+    "featured_media": 1967,
+    "template": "",
+    "marca": [
+      5
+    ],
+    "cor": [
+      44
+    ],
+    "ano": [
+      52
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/1958"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/1967"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=1958"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=1958"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=1958"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=1958"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1933,
+    "date": "2024-11-26T20:05:16",
+    "date_gmt": "2024-11-26T23:05:16",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=1933"
+    },
+    "modified": "2024-11-26T20:21:07",
+    "modified_gmt": "2024-11-26T23:21:07",
+    "slug": "saveiro-cross-1-6-cd-2015",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/saveiro-cross-1-6-cd-2015/",
+    "title": {
+      "rendered": "SAVEIRO CROSS 1.6 CD 2015"
+    },
+    "content": {
+      "rendered": "\n<p>A Saveiro Cross 1.6 CD 2015/2015 T. Flex 16V combina estilo, desempenho e funcionalidade em um único veículo. Equipada com motor 1.6 e câmbio manual, ela é perfeita para quem busca uma picape ágil e eficiente, seja para o trabalho ou para o dia a dia.</p>\n\n\n\n<p>Entre os destaques estão o som, vidros elétricos, travas, ar-condicionado e volante multifuncional, que oferecem mais conforto e praticidade. Os bancos em couro agregam um toque de sofisticação ao interior. Com as revisões em dia, é a escolha certa para quem valoriza segurança e confiabilidade.</p>\n",
+      "protected": false
+    },
+    "featured_media": 1956,
+    "template": "",
+    "marca": [
+      29
+    ],
+    "cor": [
+      39
+    ],
+    "ano": [
+      35
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/1933"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/1956"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=1933"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=1933"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=1933"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=1933"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1904,
+    "date": "2024-11-26T09:22:03",
+    "date_gmt": "2024-11-26T12:22:03",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=1904"
+    },
+    "modified": "2024-11-26T20:17:37",
+    "modified_gmt": "2024-11-26T23:17:37",
+    "slug": "sandero-stepway-2014",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/sandero-stepway-2014/",
+    "title": {
+      "rendered": "SANDERO STEPWAY 2014"
+    },
+    "content": {
+      "rendered": "\n<p>O Sandero Stepway Hi-Flex 1.6 2013/2014 16V 5P Automático é um carro robusto e ideal para quem busca conforto e desempenho em todas as condições de estrada. Com motor 1.6 e câmbio automático, oferece uma condução suave e eficiente, perfeita para o dia a dia.</p>\n\n\n\n<p>Equipado com multimídia, vidros elétricos, travas, ar-condicionado, sensor de estacionamento, câmera de ré e bancos em couro, proporciona uma experiência de direção mais segura e confortável. Além disso, com as revisões em dia, você pode contar com um carro bem cuidado e pronto para rodar.</p>\n",
+      "protected": false
+    },
+    "featured_media": 1952,
+    "template": "",
+    "marca": [
+      34
+    ],
+    "cor": [
+      11
+    ],
+    "ano": [
+      23
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/1904"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/1952"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=1904"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=1904"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=1904"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=1904"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1864,
+    "date": "2024-11-22T17:51:40",
+    "date_gmt": "2024-11-22T20:51:40",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=1864"
+    },
+    "modified": "2024-11-22T18:18:45",
+    "modified_gmt": "2024-11-22T21:18:45",
+    "slug": "kwid-zen-1-0-2019",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/kwid-zen-1-0-2019/",
+    "title": {
+      "rendered": "KWID ZEN 1.0 2019"
+    },
+    "content": {
+      "rendered": "\n<p>O Kwid Zen 1.0 2018/2019 Flex 12V 5P Manual é a escolha perfeita para quem busca economia e praticidade no dia a dia. Equipado com motor 1.0 e câmbio manual, ele combina eficiência no consumo de combustível com um desempenho confiável.</p>\n\n\n\n<p>Conta com som, vidros elétricos dianteiros, travas e ar-condicionado, proporcionando conforto e comodidade durante suas viagens. Além disso, com as revisões em dia, este veículo está pronto para acompanhar você em qualquer percurso com segurança e tranquilidade.</p>\n",
+      "protected": false
+    },
+    "featured_media": 1872,
+    "template": "",
+    "marca": [
+      34
+    ],
+    "cor": [
+      8
+    ],
+    "ano": [
+      26
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/1864"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/1872"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=1864"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=1864"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=1864"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=1864"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1829,
+    "date": "2024-11-22T17:15:54",
+    "date_gmt": "2024-11-22T20:15:54",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=1829"
+    },
+    "modified": "2024-11-22T18:23:24",
+    "modified_gmt": "2024-11-22T21:23:24",
+    "slug": "hr-v-exl-1-5-sensing-2023",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/hr-v-exl-1-5-sensing-2023/",
+    "title": {
+      "rendered": "HR-V EXL 1.5 SENSING 2023"
+    },
+    "content": {
+      "rendered": "\n<p>O HR-V EXL 1.5 Sensing 2022/2023 16V 5P Automático é um SUV moderno e sofisticado, ideal para quem busca desempenho, conforto e tecnologia. Com motor 1.5 e câmbio automático, oferece uma condução suave e eficiente, tanto na cidade quanto em viagens mais longas.</p>\n\n\n\n<p>Equipado com multimídia, vidros elétricos e travas, proporciona praticidade e conectividade para os ocupantes. O ar-condicionado garante conforto em qualquer clima, e o sensor de estacionamento, juntamente com a câmera de ré, facilita as manobras e aumenta a segurança. O volante multifuncional oferece maior controle, enquanto os bancos em couro elevam o nível de sofisticação e conforto no interior.</p>\n\n\n\n<p>Com revisões em dia, o HR-V EXL 1.5 Sensing é um veículo que combina estilo, tecnologia e confiabilidade, pronto para atender às suas necessidades com segurança e conforto.</p>\n",
+      "protected": false
+    },
+    "featured_media": 1876,
+    "template": "",
+    "marca": [
+      4
+    ],
+    "cor": [
+      8
+    ],
+    "ano": [
+      15
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/1829"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/1876"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=1829"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=1829"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=1829"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=1829"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1816,
+    "date": "2024-11-22T17:00:33",
+    "date_gmt": "2024-11-22T20:00:33",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=1816"
+    },
+    "modified": "2024-11-22T18:24:24",
+    "modified_gmt": "2024-11-22T21:24:24",
+    "slug": "onix-premier-1-0-2022",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/onix-premier-1-0-2022/",
+    "title": {
+      "rendered": "ONIX PREMIER 1.0 2022"
+    },
+    "content": {
+      "rendered": "\n<p>O Onix Premier 1.0 2021/2022 12V Turbo Flex 5P Automático é um veículo sofisticado e eficiente, projetado para quem busca uma experiência de condução moderna e cheia de recursos. Com motor 1.0 turbo e câmbio automático, oferece um desempenho ágil e econômico, ideal para o trânsito urbano e viagens mais longas.</p>\n\n\n\n<p>Equipado com multimídia, vidros elétricos e travas, garante praticidade e conectividade. O ar-condicionado proporciona conforto em qualquer clima, enquanto o sensor de estacionamento e a câmera de ré tornam as manobras mais fáceis e seguras. O volante multifuncional oferece maior controle sem tirar as mãos do volante.</p>\n\n\n\n<p>Com as revisões em dia, o Onix Premier 1.0 é um carro bem mantido, pronto para atender às necessidades de quem valoriza conforto, segurança e tecnologia no dia a dia.</p>\n",
+      "protected": false
+    },
+    "featured_media": 1877,
+    "template": "",
+    "marca": [
+      2
+    ],
+    "cor": [
+      8
+    ],
+    "ano": [
+      14
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/1816"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/1877"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=1816"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=1816"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=1816"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=1816"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1783,
+    "date": "2024-11-22T16:27:26",
+    "date_gmt": "2024-11-22T19:27:26",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=1783"
+    },
+    "modified": "2024-11-22T18:27:22",
+    "modified_gmt": "2024-11-22T21:27:22",
+    "slug": "renegade-sport-t270-1-3-2023",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/renegade-sport-t270-1-3-2023/",
+    "title": {
+      "rendered": "RENEGADE SPORT T270 1.3 2023"
+    },
+    "content": {
+      "rendered": "\n<p>O Jeep Renegade Sport T270 1.3 2022/2023 é a combinação perfeita de performance, tecnologia e conforto. Com motor 1.3 Turbo e câmbio automático, oferece uma condução suave e potente, ideal para diferentes tipos de trajeto, seja urbano ou em estradas.</p>\n\n\n\n<p>Este modelo vem equipado com multimídia, vidros elétricos, travas e ar-condicionado, proporcionando conveniência e praticidade. A câmera de ré e o volante multifuncional aumentam a segurança e o conforto, tornando a direção ainda mais intuitiva e prazerosa.</p>\n\n\n\n<p>Além disso, com as revisões em dia, o Renegade garante a confiabilidade que você precisa para rodar tranquilo. É a escolha ideal para quem deseja um carro robusto, moderno e com um alto nível de equipagem.</p>\n",
+      "protected": false
+    },
+    "featured_media": 1880,
+    "template": "",
+    "marca": [
+      31
+    ],
+    "cor": [
+      8
+    ],
+    "ano": [
+      15
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/1783"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/1880"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=1783"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=1783"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=1783"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=1783"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1748,
+    "date": "2024-11-22T15:21:01",
+    "date_gmt": "2024-11-22T18:21:01",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=1748"
+    },
+    "modified": "2024-11-22T18:29:47",
+    "modified_gmt": "2024-11-22T21:29:47",
+    "slug": "t-cross-sense-200-tsi-2022",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/t-cross-sense-200-tsi-2022/",
+    "title": {
+      "rendered": "T CROSS SENSE 200 TSI 2022"
+    },
+    "content": {
+      "rendered": "\n<p>O T-Cross Sense 200 TSI 1.0 2021/2022 combina performance, tecnologia e conforto em um único pacote. Com motor 1.0 e câmbio automático, oferece uma condução suave e eficiente, ideal para o trânsito urbano e viagens.</p>\n\n\n\n<p>Seu interior é equipado com multimídia, vidros elétricos, ar-condicionado e volante multifuncional, proporcionando uma experiência de direção confortável e prática. A segurança é garantida com câmera de ré e sensores de estacionamento, enquanto as revisões em dia asseguram o bom estado do veículo.</p>\n\n\n\n<p>Perfeito para quem busca versatilidade, estilo e confiabilidade em um SUV compacto.</p>\n",
+      "protected": false
+    },
+    "featured_media": 1884,
+    "template": "",
+    "marca": [
+      29
+    ],
+    "cor": [
+      8
+    ],
+    "ano": [
+      13
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/1748"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/1884"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=1748"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=1748"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=1748"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=1748"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1747,
+    "date": "2024-11-22T15:09:47",
+    "date_gmt": "2024-11-22T18:09:47",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=1747"
+    },
+    "modified": "2024-11-22T18:30:31",
+    "modified_gmt": "2024-11-22T21:30:31",
+    "slug": "captur-iconic-1-3-2022",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/captur-iconic-1-3-2022/",
+    "title": {
+      "rendered": "CAPTUR ICONIC 1.3 2022"
+    },
+    "content": {
+      "rendered": "\n<p>O Captur Iconic 1.3 Turbo 2021/2022 é a perfeita combinação de elegância, inovação e desempenho. Equipado com motor 1.3 Turbo e câmbio automático, oferece potência e eficiência ideais para o dia a dia ou viagens longas.</p>\n\n\n\n<p>Seu interior espaçoso e moderno é complementado por sistema multimídia avançado, ar-condicionado, vidros elétricos e volante multifuncional, garantindo conforto e praticidade para todos os ocupantes.</p>\n\n\n\n<p>A segurança é reforçada com câmera de ré, sensores de estacionamento e travas automáticas. Além disso, com as revisões em dia, este SUV está pronto para atender às suas expectativas com confiança e estilo.</p>\n",
+      "protected": false
+    },
+    "featured_media": 1885,
+    "template": "",
+    "marca": [
+      34
+    ],
+    "cor": [
+      56
+    ],
+    "ano": [
+      14
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/1747"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/1885"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=1747"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=1747"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=1747"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=1747"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1723,
+    "date": "2024-11-22T15:01:03",
+    "date_gmt": "2024-11-22T18:01:03",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=1723"
+    },
+    "modified": "2024-11-22T18:31:23",
+    "modified_gmt": "2024-11-22T21:31:23",
+    "slug": "tracker-premier-1-2-2022",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/tracker-premier-1-2-2022/",
+    "title": {
+      "rendered": "TRACKER PREMIER 1.2 2022"
+    },
+    "content": {
+      "rendered": "\n<p>O Tracker Premier 1.2 Turbo 2021/2022 combina sofisticação, desempenho e tecnologia de ponta. Equipado com motor 1.2 Turbo e câmbio automático, oferece uma experiência de condução ágil e eficiente, perfeita para diferentes trajetos.</p>\n\n\n\n<p>Seu design moderno é complementado pelo teto solar panorâmico, que traz mais luminosidade e estilo ao interior. Com sistema multimídia avançado, ar-condicionado e volante multifuncional, você desfruta de máximo conforto e conectividade.</p>\n\n\n\n<p>Para maior praticidade e segurança, conta com câmera de ré, sensores de estacionamento, vidros elétricos e travas automáticas. Revisões em dia garantem a confiabilidade desse SUV pronto para transformar suas viagens em momentos únicos.</p>\n",
+      "protected": false
+    },
+    "featured_media": 1887,
+    "template": "",
+    "marca": [
+      2
+    ],
+    "cor": [
+      11
+    ],
+    "ano": [
+      14
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/1723"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/1887"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=1723"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=1723"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=1723"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=1723"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1688,
+    "date": "2024-11-22T14:35:35",
+    "date_gmt": "2024-11-22T17:35:35",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=1688"
+    },
+    "modified": "2024-11-22T18:33:50",
+    "modified_gmt": "2024-11-22T21:33:50",
+    "slug": "strada-ranch-1-3-2023",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/strada-ranch-1-3-2023/",
+    "title": {
+      "rendered": "STRADA RANCH 1.3 2023"
+    },
+    "content": {
+      "rendered": "\n<p>A Strada Ranch 1.3 2023/2023 Flex 8V CD Automática é a combinação perfeita de estilo, tecnologia e versatilidade. Com motor 1.3 e câmbio automático, ela oferece uma condução suave e eficiente, ideal para o dia a dia e aventuras de fim de semana.</p>\n\n\n\n<p>Seu interior destaca-se pelo conforto e modernidade, com bancos em couro, ar-condicionado e volante multifuncional que proporciona praticidade ao alcance das mãos. O sistema multimídia mantém você conectado, enquanto a câmera de ré e os sensores de estacionamento garantem mais segurança e facilidade nas manobras.</p>\n\n\n\n<p>Vidros elétricos, travas automáticas e revisões em dia completam o pacote, tornando esta Strada Ranch uma escolha que combina sofisticação e funcionalidade. Uma picape que eleva sua experiência ao próximo nível.</p>\n",
+      "protected": false
+    },
+    "featured_media": 1890,
+    "template": "",
+    "marca": [
+      3
+    ],
+    "cor": [
+      44
+    ],
+    "ano": [
+      15
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/1688"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/1890"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=1688"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=1688"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=1688"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=1688"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1656,
+    "date": "2024-11-20T17:37:35",
+    "date_gmt": "2024-11-20T20:37:35",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=1656"
+    },
+    "modified": "2024-11-22T18:36:16",
+    "modified_gmt": "2024-11-22T21:36:16",
+    "slug": "l200-triton-sport-gls-2-4",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/l200-triton-sport-gls-2-4/",
+    "title": {
+      "rendered": "L200 TRITON SPORT GLS 2.4"
+    },
+    "content": {
+      "rendered": "\n<p>A L200 Triton Sport GLS 2.4 CD Diesel Mecânica é sinônimo de força, durabilidade e eficiência. Equipada com um potente motor 2.4 e câmbio manual, esta caminhonete é perfeita para enfrentar qualquer desafio, seja no trabalho pesado ou em aventuras off-road. Seu desempenho robusto combina perfeitamente com a economia e a confiabilidade do motor a diesel, tornando-a uma excelente escolha para quem busca versatilidade.</p>\n\n\n\n<p>O conforto também é destaque, com ar-condicionado que proporciona um ambiente agradável em todas as condições e vidros elétricos para maior praticidade. O sistema de som integrado garante entretenimento durante suas viagens, seja na cidade ou no campo.</p>\n\n\n\n<p>Além disso, as revisões estão rigorosamente em dia, assegurando que o veículo está em perfeitas condições de uso. A L200 Triton Sport é mais do que uma caminhonete; é um parceiro confiável para o dia a dia e para os momentos de aventura.</p>\n",
+      "protected": false
+    },
+    "featured_media": 1893,
+    "template": "",
+    "marca": [
+      32
+    ],
+    "cor": [
+      8
+    ],
+    "ano": [
+      25
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/1656"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/1893"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=1656"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=1656"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=1656"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=1656"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1609,
+    "date": "2024-11-05T11:57:42",
+    "date_gmt": "2024-11-05T14:57:42",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=1609"
+    },
+    "modified": "2024-11-22T19:10:03",
+    "modified_gmt": "2024-11-22T22:10:03",
+    "slug": "renault-kwid",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/renault-kwid/",
+    "title": {
+      "rendered": "KWID ZEN 2022 1.0"
+    },
+    "content": {
+      "rendered": "\n<p>O Renault Kwid Zen 1.0 2021/2022 é um hatch compacto e econômico, projetado para o uso urbano, com foco em praticidade e custo-benefício. Equipado com um motor 1.0 flex, ele oferece uma boa eficiência de combustível, ideal para quem busca economia no dia a dia. O câmbio manual proporciona uma condução simples e controlada, favorecendo a dirigibilidade no trânsito urbano.</p>\n\n\n\n<p>Entre os itens de conforto e conveniência, o Kwid Zen conta com sistema de som para entretenimento e vidros elétricos dianteiros, facilitando o uso. O ar condicionado é um recurso importante para garantir o conforto dos ocupantes em qualquer condição climática. Além disso, as revisões estão em dia, o que assegura a confiabilidade e a boa manutenção do veículo.</p>\n",
+      "protected": false
+    },
+    "featured_media": 1897,
+    "template": "",
+    "marca": [
+      34
+    ],
+    "cor": [
+      8
+    ],
+    "ano": [
+      14
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/1609"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/1897"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=1609"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=1609"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=1609"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=1609"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1582,
+    "date": "2024-11-04T11:32:31",
+    "date_gmt": "2024-11-04T14:32:31",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=1582"
+    },
+    "modified": "2024-11-22T19:11:13",
+    "modified_gmt": "2024-11-22T22:11:13",
+    "slug": "polo-sedan-1-6-2011-2012",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/polo-sedan-1-6-2011-2012/",
+    "title": {
+      "rendered": "POLO SEDAN 1.6 2012 "
+    },
+    "content": {
+      "rendered": "\n<p>O Volkswagen Polo Sedan 1.6 2011/2012 é um sedã compacto que combina praticidade, conforto e economia, sendo uma boa opção para quem busca um carro versátil para o dia a dia. Equipado com um motor 1.6 flex, ele oferece um bom equilíbrio entre desempenho e eficiência, possibilitando o uso de etanol ou gasolina conforme a preferência do condutor. O câmbio manual proporciona uma condução mais envolvente e controle do veículo.</p>\n\n\n\n<p>O Polo Sedan vem com itens de conforto e conveniência, como sistema multimídia, que proporciona entretenimento e conectividade durante as viagens. Os vidros elétricos nas portas aumentam a praticidade, enquanto as travas elétricas garantem maior segurança. O ar condicionado é um recurso importante para manter o ambiente interno confortável em qualquer época do ano.</p>\n",
+      "protected": false
+    },
+    "featured_media": 1898,
+    "template": "",
+    "marca": [
+      29
+    ],
+    "cor": [
+      8
+    ],
+    "ano": [
+      27
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/1582"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/1898"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=1582"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=1582"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=1582"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=1582"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1417,
+    "date": "2024-09-16T17:20:47",
+    "date_gmt": "2024-09-16T20:20:47",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=1417"
+    },
+    "modified": "2024-11-22T19:13:03",
+    "modified_gmt": "2024-11-22T22:13:03",
+    "slug": "saveiro-cross-1-6-2015",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/saveiro-cross-1-6-2015/",
+    "title": {
+      "rendered": "SAVEIRO CROSS 1.6 2015"
+    },
+    "content": {
+      "rendered": "\n<p>A Volkswagen Saveiro Cross 1.6 2014/2015 CE (Cabine Estendida) T. Flex 16V é uma picape compacta com estilo aventureiro, projetada tanto para o trabalho quanto para o lazer. Equipado com motor 1.6 de 16 válvulas Total Flex, o veículo pode rodar com gasolina ou etanol, entregando cerca de 104 cavalos de potência com gasolina e 120 cavalos com etanol.</p>\n\n\n\n<p>A Saveiro Cross é reconhecida por seu design esportivo, com detalhes exclusivos como molduras nos para-lamas, barras no teto e para-choques diferenciados. Ela tem cabine estendida, oferecendo mais espaço interno atrás dos bancos, ideal para transportar pequenos objetos ou proporcionar maior conforto.</p>\n\n\n\n<p>A caçamba possui uma capacidade de carga significativa, sendo equipada com ganchos para amarração de carga e capota marítima, tornando-a prática para transportar materiais ou equipamentos. É um veículo bastante versátil, combinando robustez com estilo e conforto para o dia a dia.</p>\n\n\n\n<p></p>\n",
+      "protected": false
+    },
+    "featured_media": 1901,
+    "template": "",
+    "marca": [
+      29
+    ],
+    "cor": [
+      8
+    ],
+    "ano": [
+      35
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/1417"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/1901"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=1417"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=1417"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=1417"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=1417"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1171,
+    "date": "2024-08-17T13:52:50",
+    "date_gmt": "2024-08-17T16:52:50",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=1171"
+    },
+    "modified": "2024-11-22T19:14:25",
+    "modified_gmt": "2024-11-22T22:14:25",
+    "slug": "2500-laramie-6-7-2018",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/2500-laramie-6-7-2018/",
+    "title": {
+      "rendered": "2500 LARAMIE 6.7 2018"
+    },
+    "content": {
+      "rendered": "\n<p>A Ram 2500 Laramie 6.7 2018/2018 TDI CD 4&#215;4 Diesel Automático é um verdadeiro ícone de robustez e luxo. Equipado com um imponente motor 6.7 TDI e câmbio automático, oferece uma combinação perfeita de potência e suavidade na condução, ideal para enfrentar qualquer desafio, seja nas estradas ou fora delas.</p>\n\n\n\n<p>O sistema multimídia de última geração proporciona entretenimento e conectividade durante suas viagens, enquanto os vidros e travas elétricas adicionam conveniência ao seu dia a dia. A câmera de ré e o sensor de estacionamento garantem maior segurança e facilidade nas manobras.</p>\n\n\n\n<p>Com todas as características premium e revisões em dia, a Ram 2500 Laramie é a escolha ideal para quem busca um veículo robusto e elegante, pronto para oferecer uma experiência de condução incomparável.</p>\n",
+      "protected": false
+    },
+    "featured_media": 1903,
+    "template": "",
+    "marca": [
+      51
+    ],
+    "cor": [
+      8
+    ],
+    "ano": [
+      25
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/1171"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/1903"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=1171"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=1171"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=1171"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=1171"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 782,
+    "date": "2024-04-08T21:28:11",
+    "date_gmt": "2024-04-09T00:28:11",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=782"
+    },
+    "modified": "2024-10-03T15:00:47",
+    "modified_gmt": "2024-10-03T18:00:47",
+    "slug": "fiat-500-sport-2010",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/fiat-500-sport-2010/",
+    "title": {
+      "rendered": "FIAT 500 SPORT 2010"
+    },
+    "content": {
+      "rendered": "\n<p>O Fiat 500 Sport 1.4 2009/2010 é um carro compacto e estiloso, ideal para quem busca um veículo urbano com personalidade e desempenho. Equipado com um motor 1.4, oferece um equilíbrio entre potência e eficiência de combustível, proporcionando uma experiência de condução dinâmica.</p>\n\n\n\n<p>Com um câmbio manual, o Fiat 500 Sport permite ao motorista uma sensação mais envolvente e controle direto sobre as mudanças de marcha, ideal para quem aprecia uma condução mais esportiva.</p>\n\n\n\n<p>A presença de um sistema multimídia oferece entretenimento e conectividade, permitindo acesso a diversas funcionalidades como reprodução de música, navegação e conectividade Bluetooth para chamadas telefônicas, tudo isso em um ambiente compacto e intuitivo.</p>\n\n\n\n<p>Os vidros elétricos e travas proporcionam praticidade e segurança, permitindo controle total sobre o acesso ao veículo. Os bancos em couro conferem um toque de sofisticação ao interior, além de proporcionar conforto aos ocupantes.</p>\n",
+      "protected": false
+    },
+    "featured_media": 783,
+    "template": "",
+    "marca": [
+      3
+    ],
+    "cor": [
+      11
+    ],
+    "ano": [
+      40
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/782"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/783"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=782"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=782"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=782"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=782"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 747,
+    "date": "2024-03-29T10:23:58",
+    "date_gmt": "2024-03-29T13:23:58",
+    "guid": {
+      "rendered": "https://gustavoveiculosstm.com.br/?post_type=veiculos&#038;p=747"
+    },
+    "modified": "2024-03-29T10:23:58",
+    "modified_gmt": "2024-03-29T13:23:58",
+    "slug": "bmw-323i-am31-2001",
+    "status": "publish",
+    "type": "veiculos",
+    "link": "https://gustavoveiculosstm.com.br/veiculos/bmw-323i-am31-2001/",
+    "title": {
+      "rendered": "BMW 323I AM31 2001"
+    },
+    "content": {
+      "rendered": "\n<p>O BMW 323i 2.5 AM31 é um sedan esportivo que oferece uma combinação de desempenho potente e conforto luxuoso. Equipado com um motor de 2.5 litros, este carro proporciona uma experiência de condução dinâmica e emocionante. Seu câmbio manual permite ao condutor ter controle total sobre a transmissão, proporcionando uma sensação mais envolvente ao dirigir.</p>\n\n\n\n<p>No quesito entretenimento, este veículo está equipado com um sistema de som de alta qualidade para garantir uma experiência auditiva imersiva durante a viagem. Os vidros elétricos e travas oferecem conveniência adicional, enquanto o ar condicionado mantém o interior do carro confortável em todas as condições climáticas.</p>\n\n\n\n<p>Os bancos em couro proporcionam um toque de elegância ao interior, além de oferecerem conforto e suporte durante a condução. Com uma câmara de ré e sensores de estacionamento, manobrar em espaços apertados torna-se mais seguro e fácil.</p>\n\n\n\n<p>O teto solar elétrico adiciona uma dose extra de estilo e permite aos ocupantes desfrutarem de uma brisa refrescante e de uma vista panorâmica do céu. E com as revisões em dia, você pode ter a tranquilidade de que este carro foi bem mantido e está pronto para proporcionar muitos quilômetros de prazer ao dirigir.</p>\n",
+      "protected": false
+    },
+    "featured_media": 753,
+    "template": "",
+    "marca": [
+      41
+    ],
+    "cor": [
+      42
+    ],
+    "ano": [
+      43
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos/747"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/veiculos"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/types/veiculos"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media/753"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/media?parent=747"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "marca",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/marca?post=747"
+        },
+        {
+          "taxonomy": "cor",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/cor?post=747"
+        },
+        {
+          "taxonomy": "ano",
+          "embeddable": true,
+          "href": "https://gustavoveiculosstm.com.br/wp-json/wp/v2/ano?post=747"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

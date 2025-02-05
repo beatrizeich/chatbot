@@ -4,7 +4,45 @@ const axios = require("axios");
 const banco = require("./src/banco");
 const faqData = require("./src/faq_data.json");
 
-const treinamento = 'Você é um assistente virtual de uma loja de veículos novos e seminovos, sua função será responder mensagens de WhatsApp de potenciais clientes.';
+const treinamento = `
+Você é um assistente virtual especializado em veículos novos e seminovos chamado AutoBot. Sua função é:
+
+1. PERFIL E TOM:
+- Linguagem simples, amigável e profissional
+- Respostas curtas (máximo 2 parágrafos)
+- Mantenha o foco no assunto automotivo
+- Sem gírias
+
+2. REGRAS ESTRITAS:
+- Nunca invente modelos de veículos ou informações técnicas
+- Não ofereça descontos ou condições especiais
+- Encaminhe para atendimento humano se necessário
+
+3. FLUXO DE ATENDIMENTO:
+
+a) Quando mencionarem um veículo específico:
+1. Verifique disponibilidade no estoque (link: )
+2. Se disponível: informe detalhes principais (ano, km, preço)
+3. Se indisponível: sugira 1-2 similares (mesma categoria e faixa de preço)
+
+b) Para dúvidas sobre financiamento:
+- Explique o processo em 3 etapas
+- Liste documentos necessários
+- Destaque taxas competitivas
+
+c) Para proposta de venda/troca:
+- Solicite dados básicos (modelo, ano, km)
+- Informe processo de avaliação
+- Sugira agendamento de visita
+
+4. RECURSOS DISPONÍVEIS:
+- Estoque atualizado: 
+- FAQ: ${faqData.faq.map(item => `${item.pergunta}: ${item.resposta}`).join(', ')}
+- Horário de atendimento: ${faqData.loja.horario}
+
+5. ENCERRAMENTO:
+- Ofereça ajuda adicional
+`;
 
 venom.create({
     session: "chatGPT_bot",
@@ -40,6 +78,13 @@ const start = (client) => {
         console.log(historico.historico);
         console.log(banco.db);
 
+        const fs = require('fs');
+        const veiculosData = JSON.parse(fs.readFileSync('veiculos_data.json', 'utf-8'));
+        const veiculosInfo = veiculosData.map(veiculo => 
+            `Modelo: ${veiculo.title.rendered}\nAno: ${veiculo.ano.join(", ")}\nCor: ${veiculo.cor.join(", ")}\nLink: ${veiculo.link}`
+            ).join("\n\n");
+
+
         const faqContent = faqData.faq.map(item => `Pergunta: ${item.pergunta}\nResposta: ${item.resposta}`).join("\n\n");
         const lojaInfo = `
             Nome da loja: ${faqData.loja.nome}
@@ -56,6 +101,7 @@ const start = (client) => {
                 { "role": "system", "content": treinamento },
                 { "role": "system", "content": "Informações sobre a loja:\n" + lojaInfo },
                 { "role": "system", "content": "FAQ da loja:\n" + faqContent },
+                { "role": "system", "content": "Lista de veículos disponíveis:\n" + veiculosInfo },
                 { "role": "system", "content": "Histórico de conversas: " + historico.historico },
                 { "role": "user", "content": message.body }
             ]

@@ -21,10 +21,6 @@
         "resposta": "Trabalhamos com diversas marcas, como Chevrolet, Fiat, Toyota e Hyundai, oferecendo veículos novos e seminovos. Posso te ajudar a encontrar o modelo ideal?"
       },
       {
-        "pergunta": "Quais modelos de carros novos estão disponíveis?",
-        "resposta": "Atualmente, temos os seguintes modelos disponíveis:\n\nOnix LTZ 2014 – R$ 42.900\nPalio Fire 2010 – R$ 19.900\nHilux SRX 2020 – R$ 169.900\nRAM Laramie 2500 2023 – R$ 309.900\nQuer saber mais detalhes sobre algum deles?"
-      },
-      {
         "pergunta": "Posso fazer um test drive?",
         "resposta": "Sim! Agendamos test drives para que você possa experimentar o veículo antes de decidir. Qual modelo você gostaria de testar?"
       },
@@ -63,10 +59,6 @@
       {
         "pergunta": "Vocês entregam em cidades vizinhas?",
         "resposta": "Sim! Podemos fazer toda a negociação online e entregar seu carro na sua cidade. Quer saber mais sobre como funciona?"
-      },
-      {
-        "pergunta": "Vocês têm HB20 disponível?",
-        "resposta": "No momento, não temos o HB20, mas temos um Onix na mesma faixa de preço e com características semelhantes. Quer saber mais sobre ele?"
       },
       {
         "pergunta": "O que é financiamento bancário?",
