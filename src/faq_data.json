@@ -75,7 +75,19 @@
       {
         "pergunta": "Qual o valor da entrada e das parcelas?",
         "resposta": "O valor da entrada e das parcelas varia para cada pessoa, pois depende do seu perfil de crédito, do veículo escolhido e das condições do banco. Para saber os valores exatos, é necessário fazer uma simulação. Quer que eu te ajude com isso? 🚗💰"
-      }
+      },
+      {
+        "pergunta": "Quero vender meu carro",
+        "resposta": "Ótima escolha! Na Gustavo Veículos, oferecemos as melhores condições para você. Podemos agendar uma avaliação do seu carro na loja? Assim, já negociamos da melhor forma para você!"
+      },
+      {
+        "pergunta": "Vocês compram carro?",
+        "resposta": "Atualmente, não estamos comprando veículos diretamente, mas você pode deixar o seu conosco para vendermos para você! Que tal agendarmos uma avaliação?"
+      },
+      {
+        "pergunta": "Como faço para vender meu carro?",
+        "resposta": "É simples! Basta trazer seu carro para uma avaliação na Gustavo Veículos. Vamos analisar as condições e definir a melhor forma de negociação para você. Podemos agendar um horário?"
+      }     
     ]
   }
   
