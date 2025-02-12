@@ -32,8 +32,6 @@ a) Quando mencionarem um veículo específico:
 - FAQ: ${faqData.faq.map(item => `${item.pergunta}: ${item.resposta}`).join(', ')}
 - Horário de atendimento: ${faqData.loja.horario}
 
-6. ENCERRAMENTO:
-- Ofereça ajuda adicional, se necessário.
 `;
 
 venom.create({
